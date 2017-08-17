@@ -10,7 +10,6 @@
 10;'civilStatus';'ipc_issueEntry_q_civilStatus';;'ipc_issueEntry_q_civilStatus';'fake_uid_cs';10;0;0;1;10;0;19;1;1;;1
 11;'phoneOwnership';'ipc_issueEntry_q_ownershipOfPhone';;'ipc_issueEntry_q_ownershipOfPhone';'fake_uid_oop';11;0;0;1;11;0;19;1;1;;1
 12;'phoneNumber';'ipc_issueEntry_q_phoneNumber';;'ipc_issueEntry_q_phoneNumber';'fake_uid_pn';12;0;0;1;12;0;13;1;1;;1
-13;'program';'ipc_issueEntry_q_program';;'ipc_issueEntry_q_program';'fake_uid_p';13;0;0;1;13;0;19;1;1;;1
 14;'firstName';'ipc_issueEntry_q_firstName';;'ipc_issueEntry_q_firstName';'fake_uid_fn';1;0;0;2;1;0;4;1;1;;1
 15;'test';'ipc_issueEntry_q_lastName';;'ipc_issueEntry_q_lastName';'fake_uid_ln';2;0;0;2;2;0;4;1;1;;1
 16;'test';'ipc_issueEntry_q_gender';;'ipc_issueEntry_q_gender';'fake_uid_g';3;0;0;2;3;0;19;1;1;;1
@@ -21,4 +20,3 @@
 21;'test';'ipc_issueEntry_q_channelOfReferral';;'ipc_issueEntry_q_channelOfReferral';'fake_uid_cor';8;0;0;2;9;0;19;1;1;;1
 22;'phoneOwnership';'ipc_issueEntry_q_ownershipOfPhone';;'ipc_issueEntry_q_ownershipOfPhone';'fake_uid_oop';9;0;0;2;11;0;19;1;1;;1
 23;'test';'ipc_issueEntry_q_phoneNumber';;'ipc_issueEntry_q_phoneNumber';'fake_uid_pn';10;0;0;2;12;0;13;1;1;;1
-24;'program';'ipc_issueEntry_q_program';;'ipc_issueEntry_q_program';'fake_uid_p';11;0;0;2;13;0;19;1;1;;1
